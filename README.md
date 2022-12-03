@@ -13,6 +13,7 @@ Problemas:
 ![image](https://user-images.githubusercontent.com/88839032/205465959-c47de623-3de3-4ecc-84a3-7741d04f14fe.png)
 
 Vista desde un celular:
+
 ![image](https://user-images.githubusercontent.com/88839032/205465975-446fd58e-af06-4182-aeb2-94a61bda2a6d.png)
 
 ![image](https://user-images.githubusercontent.com/88839032/205465983-07882886-db18-48d5-97a4-294a95986062.png)
